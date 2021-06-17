@@ -1,0 +1,172 @@
++----------------------------------------------------------------------------------+
+|                                  Currency Data                                   |
++------+--------------------------------------------+------------+-----------------+
+| s.no |               Currency Name                | Curreny Id | Currency symbol |
++------+--------------------------------------------+------------+-----------------+
+|  1   |               Afghan Afghani               |    AFN     |        ؋        |
+|  2   |                Albanian Lek                |    ALL     |       Lek       |
+|  3   |               Algerian Dinar               |    DZD     |        -        |
+|  4   |               Angolan Kwanza               |    AOA     |        -        |
+|  5   |               Argentine Peso               |    ARS     |        $        |
+|  6   |               Armenian Dram                |    AMD     |        -        |
+|  7   |               Aruban Florin                |    AWG     |        ƒ        |
+|  8   |             Australian Dollar              |    AUD     |        $        |
+|  9   |             Azerbaijani Manat              |    AZN     |       ман       |
+|  10  |              Bahamian Dollar               |    BSD     |        $        |
+|  11  |               Bahraini Dinar               |    BHD     |        -        |
+|  12  |              Bangladeshi Taka              |    BDT     |        -        |
+|  13  |              Barbadian Dollar              |    BBD     |        $        |
+|  14  |              Belarusian Ruble              |    BYR     |        p.       |
+|  15  |               Belize Dollar                |    BZD     |       BZ$       |
+|  16  |              Bermudan Dollar               |    BMD     |        -        |
+|  17  |             Bhutanese Ngultrum             |    BTN     |        -        |
+|  18  |                  Bitcoin                   |    BTC     |       BTC       |
+|  19  |             Bolivian Boliviano             |    BOB     |        $b       |
+|  20  | Bosnia And Herzegovina Konvertibilna Marka |    BAM     |        KM       |
+|  21  |               Botswana Pula                |    BWP     |        P        |
+|  22  |               Brazilian Real               |    BRL     |        R$       |
+|  23  |               British Pound                |    GBP     |        £        |
+|  24  |               Brunei Dollar                |    BND     |        $        |
+|  25  |               Bulgarian Lev                |    BGN     |        лв       |
+|  26  |               Burundi Franc                |    BIF     |        -        |
+|  27  |                 CFP Franc                  |    XPF     |        -        |
+|  28  |               Cambodian Riel               |    KHR     |        ៛        |
+|  29  |              Canadian Dollar               |    CAD     |        $        |
+|  30  |            Cape Verdean Escudo             |    CVE     |        -        |
+|  31  |           Cayman Islands Dollar            |    KYD     |        $        |
+|  32  |         Central African CFA Franc          |    XAF     |        -        |
+|  33  |                Chilean Peso                |    CLP     |        $        |
+|  34  |          Chilean Unit Of Account           |    CLF     |        -        |
+|  35  |                Chinese Yuan                |    CNY     |        ¥        |
+|  36  |               Colombian Peso               |    COP     |        $        |
+|  37  |               Comorian Franc               |    KMF     |        -        |
+|  38  |              Congolese Franc               |    CDF     |        -        |
+|  39  |             Costa Rican Colon              |    CRC     |        ₡        |
+|  40  |               Croatian Kuna                |    HRK     |        kn       |
+|  41  |           Cuban Convertible Peso           |    CUC     |        -        |
+|  42  |                 Cuban Peso                 |    CUP     |        $        |
+|  43  |                Czech Koruna                |    CZK     |        Kč       |
+|  44  |                Danish Krone                |    DKK     |        kr       |
+|  45  |              Djiboutian Franc              |    DJF     |        -        |
+|  46  |               Dominican Peso               |    DOP     |       RD$       |
+|  47  |           East Caribbean Dollar            |    XCD     |        $        |
+|  48  |               Egyptian Pound               |    EGP     |        £        |
+|  49  |               Eritrean Nakfa               |    ERN     |        -        |
+|  50  |               Ethiopian Birr               |    ETB     |        -        |
+|  51  |                    Euro                    |    EUR     |        €        |
+|  52  |           Falkland Islands Pound           |    FKP     |        £        |
+|  53  |               Fijian Dollar                |    FJD     |        $        |
+|  54  |               Gambian Dalasi               |    GMD     |        -        |
+|  55  |               Georgian Lari                |    GEL     |        -        |
+|  56  |               Ghanaian Cedi                |    GHS     |        -        |
+|  57  |              Gibraltar Pound               |    GIP     |        £        |
+|  58  |             Guatemalan Quetzal             |    GTQ     |        Q        |
+|  59  |               Guernsey Pound               |    GGP     |        -        |
+|  60  |               Guinean Franc                |    GNF     |        -        |
+|  61  |              Guyanese Dollar               |    GYD     |        $        |
+|  62  |               Haitian Gourde               |    HTG     |        -        |
+|  63  |              Honduran Lempira              |    HNL     |        L        |
+|  64  |              Hong Kong Dollar              |    HKD     |        $        |
+|  65  |              Hungarian Forint              |    HUF     |        Ft       |
+|  66  |              Icelandic Króna               |    ISK     |        kr       |
+|  67  |                Indian Rupee                |    INR     |        ₹        |
+|  68  |             Indonesian Rupiah              |    IDR     |        Rp       |
+|  69  |                Iranian Rial                |    IRR     |        ﷼        |
+|  70  |                Iraqi Dinar                 |    IQD     |        -        |
+|  71  |             Israeli New Sheqel             |    ILS     |        ₪        |
+|  72  |              Jamaican Dollar               |    JMD     |        J$       |
+|  73  |                Japanese Yen                |    JPY     |        ¥        |
+|  74  |                Jersey Pound                |    JEP     |        -        |
+|  75  |              Jordanian Dinar               |    JOD     |        -        |
+|  76  |             Kazakhstani Tenge              |    KZT     |        лв       |
+|  77  |              Kenyan Shilling               |    KES     |       KSh       |
+|  78  |               Kuwaiti Dinar                |    KWD     |        -        |
+|  79  |              Kyrgyzstani Som               |    KGS     |        лв       |
+|  80  |                  Lao Kip                   |    LAK     |        ₭        |
+|  81  |                Latvian Lats                |    LVL     |        Ls       |
+|  82  |               Lebanese Lira                |    LBP     |        £        |
+|  83  |                Lesotho Loti                |    LSL     |        -        |
+|  84  |              Liberian Dollar               |    LRD     |        $        |
+|  85  |                Libyan Dinar                |    LYD     |        -        |
+|  86  |              Macanese Pataca               |    MOP     |        -        |
+|  87  |              Macedonian Denar              |    MKD     |       ден       |
+|  88  |              Malagasy Ariary               |    MGA     |        -        |
+|  89  |              Malawian Kwacha               |    MWK     |        -        |
+|  90  |             Malaysian Ringgit              |    MYR     |        RM       |
+|  91  |             Maldivian Rufiyaa              |    MVR     |        -        |
+|  92  |                 Manx pound                 |    IMP     |        -        |
+|  93  |            Mauritanian Ouguiya             |    MRO     |        -        |
+|  94  |              Mauritian Rupee               |    MUR     |        ₨        |
+|  95  |                Mexican Peso                |    MXN     |        $        |
+|  96  |                Moldovan Leu                |    MDL     |        -        |
+|  97  |              Mongolian Tugrik              |    MNT     |        ₮        |
+|  98  |              Moroccan Dirham               |    MAD     |        -        |
+|  99  |             Mozambican Metical             |    MZN     |        -        |
+| 100  |                Myanma Kyat                 |    MMK     |        -        |
+| 101  |              Namibian Dollar               |    NAD     |        $        |
+| 102  |               Nepalese Rupee               |    NPR     |        ₨        |
+| 103  |        Netherlands Antillean Gulden        |    ANG     |        ƒ        |
+| 104  |            New Belarusian Ruble            |    BYN     |        p.       |
+| 105  |             New Taiwan Dollar              |    TWD     |       NT$       |
+| 106  |             New Zealand Dollar             |    NZD     |        $        |
+| 107  |             Nicaraguan Cordoba             |    NIO     |        C$       |
+| 108  |               Nigerian Naira               |    NGN     |        ₦        |
+| 109  |              North Korean Won              |    KPW     |        ₩        |
+| 110  |              Norwegian Krone               |    NOK     |        kr       |
+| 111  |             Old Zambian Kwacha             |    ZMK     |        -        |
+| 112  |                 Omani Rial                 |    OMR     |        ﷼        |
+| 113  |                   Paanga                   |    TOP     |        -        |
+| 114  |              Pakistani Rupee               |    PKR     |        ₨        |
+| 115  |             Panamanian Balboa              |    PAB     |       B/.       |
+| 116  |           Papua New Guinean Kina           |    PGK     |        -        |
+| 117  |             Paraguayan Guarani             |    PYG     |        Gs       |
+| 118  |             Peruvian Nuevo Sol             |    PEN     |       S/.       |
+| 119  |              Philippine Peso               |    PHP     |        ₱        |
+| 120  |                Polish Zloty                |    PLN     |        zł       |
+| 121  |                Qatari Riyal                |    QAR     |        ﷼        |
+| 122  |                Romanian Leu                |    RON     |       lei       |
+| 123  |               Russian Ruble                |    RUB     |       руб       |
+| 124  |               Rwandan Franc                |    RWF     |        -        |
+| 125  |             Saint Helena Pound             |    SHP     |        £        |
+| 126  |              Salvadoran Colón              |    SVC     |        -        |
+| 127  |                Samoan Tala                 |    WST     |        -        |
+| 128  |        Sao Tome And Principe Dobra         |    STD     |        -        |
+| 129  |                Saudi Riyal                 |    SAR     |        ﷼        |
+| 130  |               Serbian Dinar                |    RSD     |       Дин.      |
+| 131  |             Seychellois Rupee              |    SCR     |        ₨        |
+| 132  |            Sierra Leonean Leone            |    SLL     |        -        |
+| 133  |            Silver (troy ounce)             |    XAG     |        -        |
+| 134  |              Singapore Dollar              |    SGD     |        $        |
+| 135  |           Solomon Islands Dollar           |    SBD     |        $        |
+| 136  |              Somali Shilling               |    SOS     |        S        |
+| 137  |             South African Rand             |    ZAR     |        R        |
+| 138  |              South Korean Won              |    KRW     |        ₩        |
+| 139  |           Special Drawing Rights           |    XDR     |        -        |
+| 140  |              Sri Lankan Rupee              |    LKR     |        ₨        |
+| 141  |               Sudanese Pound               |    SDG     |        -        |
+| 142  |             Surinamese Dollar              |    SRD     |        $        |
+| 143  |              Swazi Lilangeni               |    SZL     |        -        |
+| 144  |               Swedish Krona                |    SEK     |        kr       |
+| 145  |                Swiss Franc                 |    CHF     |       Fr.       |
+| 146  |                Syrian Pound                |    SYP     |        £        |
+| 147  |             Tajikistani Somoni             |    TJS     |        -        |
+| 148  |             Tanzanian Shilling             |    TZS     |       TSh       |
+| 149  |                 Thai Baht                  |    THB     |        ฿        |
+| 150  |         Trinidad and Tobago Dollar         |    TTD     |       TT$       |
+| 151  |               Tunisian Dinar               |    TND     |        -        |
+| 152  |              Turkish New Lira              |    TRY     |        -        |
+| 153  |             Turkmenistan Manat             |    TMT     |        -        |
+| 154  |                 UAE Dirham                 |    AED     |        -        |
+| 155  |              Ugandan Shilling              |    UGX     |       USh       |
+| 156  |             Ukrainian Hryvnia              |    UAH     |        ₴        |
+| 157  |            United States Dollar            |    USD     |        $        |
+| 158  |               Uruguayan Peso               |    UYU     |        $U       |
+| 159  |              Uzbekistani Som               |    UZS     |        лв       |
+| 160  |                Vanuatu Vatu                |    VUV     |        -        |
+| 161  |             Venezuelan Bolivar             |    VEF     |        -        |
+| 162  |              Vietnamese Dong               |    VND     |        ₫        |
+| 163  |           West African CFA Franc           |    XOF     |        -        |
+| 164  |                Yemeni Rial                 |    YER     |        ﷼        |
+| 165  |               Zambian Kwacha               |    ZMW     |        -        |
+| 166  |             Zimbabwean Dollar              |    ZWL     |        -        |
++------+--------------------------------------------+------------+-----------------+
