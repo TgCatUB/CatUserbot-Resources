@@ -1,0 +1,207 @@
++---------------------------------------------------------------------------------------------------------------------+
+|                                                    Currency Data                                                    |
++------+----------------------------------+------------+-----------------+--------------------------------------------+
+| s.no |           Country Name           | Curreny Id | Currency symbol |               Currency Name                |
++------+----------------------------------+------------+-----------------+--------------------------------------------+
+|  1   |           Afghanistan            |    AFN     |        ؋        |               Afghan afghani               |
+|  2   |             Albania              |    ALL     |       Lek       |                Albanian lek                |
+|  3   |             Algeria              |    DZD     |       د.ج       |               Algerian dinar               |
+|  4   |             Andorra              |    EUR     |        €        |               European euro                |
+|  5   |              Angola              |    AOA     |        Kz       |               Angolan kwanza               |
+|  6   |             Anguilla             |    XCD     |        $        |           East Caribbean dollar            |
+|  7   |       Antigua and Barbuda        |    XCD     |        $        |           East Caribbean dollar            |
+|  8   |            Argentina             |    ARS     |        $        |               Argentine peso               |
+|  9   |             Armenia              |    AMD     |        ֏        |               Armenian dram                |
+|  10  |              Aruba               |    AWG     |        ƒ        |               Aruban florin                |
+|  11  |            Australia             |    AUD     |        $        |             Australian dollar              |
+|  12  |             Austria              |    EUR     |        €        |               European euro                |
+|  13  |            Azerbaijan            |    AZN     |       ман       |             Azerbaijani manat              |
+|  14  |             Bahamas              |    BSD     |        $        |              Bahamian dollar               |
+|  15  |             Bahrain              |    BHD     |      دينار      |               Bahraini dinar               |
+|  16  |            Bangladesh            |    BDT     |        ৳        |              Bangladeshi taka              |
+|  17  |             Barbados             |    BBD     |        $        |              Barbadian dollar              |
+|  18  |             Belarus              |    BYN     |        p.       |            New Belarusian ruble            |
+|  19  |             Belgium              |    EUR     |        €        |               European euro                |
+|  20  |              Belize              |    BZD     |       BZ$       |               Belize dollar                |
+|  21  |              Benin               |    XOF     |        Fr       |           West African CFA franc           |
+|  22  |              Bhutan              |    BTN     |       Nu.       |             Bhutanese ngultrum             |
+|  23  |             Bolivia              |    BOB     |        $b       |             Bolivian boliviano             |
+|  24  |        Bosnia-Herzegovina        |    BAM     |        KM       | Bosnia and Herzegovina konvertibilna marka |
+|  25  |             Botswana             |    BWP     |        P        |               Botswana pula                |
+|  26  |              Brazil              |    BRL     |        R$       |               Brazilian real               |
+|  27  |              Brunei              |    BND     |        $        |               Brunei dollar                |
+|  28  |             Bulgaria             |    BGN     |        лв       |               Bulgarian lev                |
+|  29  |           Burkina Faso           |    XOF     |        Fr       |           West African CFA franc           |
+|  30  |             Burundi              |    BIF     |        Fr       |               Burundi franc                |
+|  31  |             Cambodia             |    KHR     |        ៛        |               Cambodian riel               |
+|  32  |             Cameroon             |    XAF     |        Fr       |         Central African CFA franc          |
+|  33  |              Canada              |    CAD     |        $        |              Canadian dollar               |
+|  34  |          Cayman Islands          |    KYD     |        $        |           Cayman Islands dollar            |
+|  35  |     Central African Republic     |    XAF     |        Fr       |         Central African CFA franc          |
+|  36  |               Chad               |    XAF     |        Fr       |         Central African CFA franc          |
+|  37  |              Chile               |    CLP     |        $        |                Chilean peso                |
+|  38  |              China               |    CNY     |        ¥        |              Chinese renminbi              |
+|  39  |             Colombia             |    COP     |        $        |               Colombian peso               |
+|  40  |             Comoros              |    KMF     |        Fr       |               Comorian franc               |
+|  41  |              Congo               |    XAF     |        Fr       |         Central African CFA franc          |
+|  42  |    Congo, Democratic Republic    |    CDF     |        Fr       |              Congolese franc               |
+|  43  |            Costa Rica            |    CRC     |        ₡        |             Costa Rican colon              |
+|  44  |             Croatia              |    HRK     |        kn       |               Croatian kuna                |
+|  45  |               Cuba               |    CUP     |        $        |                 Cuban peso                 |
+|  46  |              Cyprus              |    EUR     |        €        |               European euro                |
+|  47  |          Czech Republic          |    CZK     |        Kč       |                Czech koruna                |
+|  48  |          Côte d'Ivoire           |    XOF     |        Fr       |           West African CFA franc           |
+|  49  |             Denmark              |    DKK     |        kr       |                Danish krone                |
+|  50  |             Djibouti             |    DJF     |        Fr       |              Djiboutian franc              |
+|  51  |             Dominica             |    XCD     |        $        |           East Caribbean dollar            |
+|  52  |        Dominican Republic        |    DOP     |       RD$       |               Dominican peso               |
+|  53  |             Ecuador              |    USD     |        $        |                U.S. Dollar                 |
+|  54  |              Egypt               |    EGP     |        £        |               Egyptian pound               |
+|  55  |           El Salvador            |    USD     |        $        |                U.S. Dollar                 |
+|  56  |             Eritrea              |    ERN     |       Nfk       |               Eritrean nakfa               |
+|  57  |             Estonia              |    EUR     |        €        |               European euro                |
+|  58  |             Ethiopia             |    ETB     |        Br       |               Ethiopian birr               |
+|  59  |               Fiji               |    FJD     |        $        |               Fijian dollar                |
+|  60  |             Finland              |    EUR     |        €        |               European euro                |
+|  61  |              France              |    EUR     |        €        |               European euro                |
+|  62  |         French Polynesia         |    XPF     |        Fr       |                 CFP franc                  |
+|  63  |              Gabon               |    XAF     |        Fr       |         Central African CFA franc          |
+|  64  |              Gambia              |    GMD     |        D        |               Gambian dalasi               |
+|  65  |             Georgia              |    GEL     |        ₾       |               Georgian lari                |
+|  66  |             Germany              |    EUR     |        €        |               European euro                |
+|  67  |              Ghana               |    GHS     |        ₵        |               Ghanaian cedi                |
+|  68  |            Gibraltar             |    GIP     |        £        |              Gibraltar pound               |
+|  69  |              Greece              |    EUR     |        €        |               European euro                |
+|  70  |             Grenada              |    XCD     |        $        |           East Caribbean dollar            |
+|  71  |            Guatemala             |    GTQ     |        Q        |             Guatemalan quetzal             |
+|  72  |              Guinea              |    GNF     |        Fr       |               Guinean franc                |
+|  73  |          Guinea-Bissau           |    XOF     |        Fr       |           West African CFA franc           |
+|  74  |              Guyana              |    GYD     |        $        |              Guyanese dollar               |
+|  75  |              Haiti               |    HTG     |        G        |               Haitian gourde               |
+|  76  |             Honduras             |    HNL     |        L        |              Honduran lempira              |
+|  77  |            Hong Kong             |    HKD     |        $        |              Hong Kong dollar              |
+|  78  |             Hungary              |    HUF     |        Ft       |              Hungarian forint              |
+|  79  |             Iceland              |    ISK     |        kr       |              Icelandic króna               |
+|  80  |              India               |    INR     |        ₹         |                Indian rupee                |
+|  81  |            Indonesia             |    IDR     |        Rp       |             Indonesian rupiah              |
+|  82  |    Iran, Islamic Republic of     |    IRR     |        ﷼       |                Iranian rial                |
+|  83  |               Iraq               |    IQD     |       ع.د       |                Iraqi dinar                 |
+|  84  |             Ireland              |    EUR     |        €        |               European euro                |
+|  85  |              Israel              |    ILS     |        ₪        |             Israeli new sheqel             |
+|  86  |              Italy               |    EUR     |        €        |               European euro                |
+|  87  |             Jamaica              |    JMD     |        J$       |              Jamaican dollar               |
+|  88  |              Japan               |    JPY     |        ¥        |                Japanese yen                |
+|  89  |              Jordan              |    JOD     |       د.ا       |              Jordanian dinar               |
+|  90  |            Kazakhstan            |    KZT     |        лв       |             Kazakhstani tenge              |
+|  91  |              Kenya               |    KES     |       KSh       |              Kenyan shilling               |
+|  92  |             Kiribati             |    AUD     |        $        |             Australian dollar              |
+|  93  |           Korea North            |    KPW     |        ₩        |              North Korean won              |
+|  94  |           Korea South            |    KRW     |        ₩        |              South Korean won              |
+|  95  |              Kuwait              |    KWD     |       د.ك       |               Kuwaiti dinar                |
+|  96  |            Kyrgyzstan            |    KGS     |        лв       |              Kyrgyzstani som               |
+|  97  |               Laos               |    LAK     |        ₭        |                  Lao kip                   |
+|  98  |              Latvia              |    LVL     |        Ls       |                Latvian lats                |
+|  99  |             Lebanon              |    LBP     |        £        |               Lebanese lira                |
+| 100  |             Lesotho              |    LSL     |        L        |                Lesotho loti                |
+| 101  |             Liberia              |    LRD     |        $        |              Liberian dollar               |
+| 102  |              Libya               |    LYD     |       ل.د       |                Libyan dinar                |
+| 103  |          Liechtenstein           |    CHF     |       Fr.       |                Swiss Franc                 |
+| 104  |            Lithuania             |    EUR     |        €        |               European euro                |
+| 105  |            Luxembourg            |    EUR     |        €        |               European euro                |
+| 106  |              Macau               |    MOP     |        P        |              Macanese pataca               |
+| 107  |   Macedonia (Former Yug. Rep.)   |    MKD     |       ден       |              Macedonian denar              |
+| 108  |            Madagascar            |    MGA     |        Ar       |              Malagasy ariary               |
+| 109  |              Malawi              |    MWK     |        MK       |              Malawian kwacha               |
+| 110  |             Malaysia             |    MYR     |        RM       |             Malaysian ringgit              |
+| 111  |             Maldives             |    MVR     |        .ރ       |             Maldivian rufiyaa              |
+| 112  |               Mali               |    XOF     |        Fr       |           West African CFA franc           |
+| 113  |              Malta               |    EUR     |        €        |               European Euro                |
+| 114  |            Mauritania            |    MRO     |        UM       |            Mauritanian ouguiya             |
+| 115  |            Mauritius             |    MUR     |        ₨        |              Mauritian rupee               |
+| 116  |              Mexico              |    MXN     |        $        |                Mexican peso                |
+| 117  |            Micronesia            |    USD     |        $        |                U.S. Dollar                 |
+| 118  |             Moldova              |    MDL     |        L        |                Moldovan leu                |
+| 119  |              Monaco              |    EUR     |        €        |               European Euro                |
+| 120  |             Mongolia             |    MNT     |        ₮        |              Mongolian tugrik              |
+| 121  |            Montenegro            |    EUR     |        €        |               European Euro                |
+| 122  |            Montserrat            |    XCD     |        $        |           East Caribbean dollar            |
+| 123  |             Morocco              |    MAD     |       د.م.      |              Moroccan dirham               |
+| 124  |            Mozambique            |    MZN     |        MT       |             Mozambican metical             |
+| 125  |             Myanmar              |    MMK     |        Ks       |                Myanma kyat                 |
+| 126  |             Namibia              |    NAD     |        $        |              Namibian dollar               |
+| 127  |              Nauru               |    AUD     |        $        |             Australian dollar              |
+| 128  |              Nepal               |    NPR     |        ₨        |               Nepalese rupee               |
+| 129  |           Netherlands            |    EUR     |        €        |               European euro                |
+| 130  |          New Caledonia           |    XPF     |        Fr       |                 CFP franc                  |
+| 131  |           New Zealand            |    NZD     |        $        |             New Zealand dollar             |
+| 132  |            Nicaragua             |    NIO     |        C$       |             Nicaraguan cordoba             |
+| 133  |              Niger               |    XOF     |        Fr       |           West African CFA franc           |
+| 134  |             Nigeria              |    NGN     |        ₦        |               Nigerian naira               |
+| 135  |              Norway              |    NOK     |        kr       |              Norwegian krone               |
+| 136  |               Oman               |    OMR     |        ﷼       |                 Omani rial                 |
+| 137  |             Pakistan             |    PKR     |        ₨        |              Pakistani rupee               |
+| 138  |              Palau               |    USD     |        $        |                U.S. Dollar                 |
+| 139  |              Panama              |    PAB     |       B/.       |             Panamanian balboa              |
+| 140  |         Papua New Guinea         |    PGK     |        K        |           Papua New Guinean kina           |
+| 141  |             Paraguay             |    PYG     |        Gs       |             Paraguayan guarani             |
+| 142  |               Peru               |    PEN     |       S/.       |             Peruvian nuevo sol             |
+| 143  |           Philippines            |    PHP     |        ₱        |              Philippine peso               |
+| 144  |              Poland              |    PLN     |        zł       |                Polish zloty                |
+| 145  |             Portugal             |    EUR     |        €        |               European euro                |
+| 146  |           Puerto Rico            |    USD     |        $        |                U.S. Dollar                 |
+| 147  |              Qatar               |    QAR     |        ﷼       |                Qatari riyal                |
+| 148  |             Romania              |    RON     |       lei       |                Romanian leu                |
+| 149  |              Russia              |    RUB     |       руб       |               Russian ruble                |
+| 150  |              Rwanda              |    RWF     |        Fr       |               Rwandan franc                |
+| 151  |           Saint Helena           |    SHP     |        £        |             Saint Helena pound             |
+| 152  |      Saint Kitts and Nevis       |    XCD     |        $        |           East Caribbean dollar            |
+| 153  |           Saint Lucia            |    XCD     |        $        |           East Caribbean dollar            |
+| 154  | Saint Vincent and the Grenadines |    XCD     |        $        |           East Caribbean dollar            |
+| 155  |         Samoa (Western)          |    WST     |        T        |                Samoan tala                 |
+| 156  |            San Marino            |    EUR     |        €        |               European euro                |
+| 157  |      Sao Tome and Principe       |    STD     |        Db       |        Sao Tome and Principe dobra         |
+| 158  |           Saudi Arabia           |    SAR     |        ﷼       |                Saudi riyal                 |
+| 159  |             Senegal              |    XOF     |        Fr       |           West African CFA franc           |
+| 160  |              Serbia              |    RSD     |       Дин.      |               Serbian dinar                |
+| 161  |            Seychelles            |    SCR     |        ₨        |             Seychellois rupee              |
+| 162  |           Sierra Leone           |    SLL     |        Le       |            Sierra Leonean leone            |
+| 163  |            Singapore             |    SGD     |        $        |              Singapore dollar              |
+| 164  |             Slovakia             |    EUR     |        €        |               European euro                |
+| 165  |             Slovenia             |    EUR     |        €        |               European euro                |
+| 166  |         Solomon Islands          |    SBD     |        $        |           Solomon Islands dollar           |
+| 167  |             Somalia              |    SOS     |        S        |              Somali shilling               |
+| 168  |           South Africa           |    ZAR     |        R        |             South African rand             |
+| 169  |           South Sudan            |    SDG     |        £        |               Sudanese pound               |
+| 170  |              Spain               |    EUR     |        €        |               European euro                |
+| 171  |            Sri Lanka             |    LKR     |        ₨        |              Sri Lankan rupee              |
+| 172  |              Sudan               |    SDG     |       ج.س.      |               Sudanese pound               |
+| 173  |             Suriname             |    SRD     |        $        |             Surinamese dollar              |
+| 174  |            Swaziland             |    SZL     |        L        |              Swazi lilangeni               |
+| 175  |              Sweden              |    SEK     |        kr       |               Swedish krona                |
+| 176  |           Switzerland            |    CHF     |       Fr.       |                Swiss franc                 |
+| 177  |              Syria               |    SYP     |        £        |                Syrian pound                |
+| 178  |              Taiwan              |    TWD     |       NT$       |             New Taiwan dollar              |
+| 179  |            Tajikistan            |    TJS     |        ЅМ       |             Tajikistani somoni             |
+| 180  |             Tanzania             |    TZS     |       TSh       |             Tanzanian shilling             |
+| 181  |             Thailand             |    THB     |        ฿        |                 Thai baht                  |
+| 182  |               Togo               |    XOF     |        Fr       |           West African CFA franc           |
+| 183  |              Tonga               |    TOP     |        T$       |                   Paanga                   |
+| 184  |       Trinidad and Tobago        |    TTD     |       TT$       |         Trinidad and Tobago dollar         |
+| 185  |             Tunisia              |    TND     |       ملّيم      |               Tunisian dinar               |
+| 186  |              Turkey              |    TRY     |        ₺        |              Turkish new lira              |
+| 187  |           Turkmenistan           |    TMT     |        m        |             Turkmenistan manat             |
+| 188  |              Tuvalu              |    AUD     |        $        |             Australian dollar              |
+| 189  |              Uganda              |    UGX     |       USh       |              Ugandan shilling              |
+| 190  |             Ukraine              |    UAH     |        ₴        |             Ukrainian hryvnia              |
+| 191  |       United Arab Emirates       |    AED     |       فلس       |                 UAE dirham                 |
+| 192  |          United Kingdom          |    GBP     |        £        |               British pound                |
+| 193  |     United States of America     |    USD     |        $        |            United States dollar            |
+| 194  |             Uruguay              |    UYU     |        $U       |               Uruguayan peso               |
+| 195  |            Uzbekistan            |    UZS     |        лв       |              Uzbekistani som               |
+| 196  |             Vanuatu              |    VUV     |        Vt       |                Vanuatu vatu                |
+| 197  |            Venezuela             |    VEF     |        Bs       |             Venezuelan bolivar             |
+| 198  |             Vietnam              |    VND     |        ₫        |              Vietnamese dong               |
+| 199  |    Wallis and Futuna Islands     |    XPF     |        Fr       |                 CFP franc                  |
+| 200  |              Yemen               |    YER     |        ﷼       |                Yemeni rial                 |
+| 201  |              Zambia              |    ZMW     |        ZK       |               Zambian kwacha               |
++------+----------------------------------+------------+-----------------+--------------------------------------------+
