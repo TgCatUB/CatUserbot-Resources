@@ -826,7 +826,6 @@
          "https://drive.google.com/uc?id=1U7m4SwKR2icQVw2j7OPCseop5ObQ7fG2&export=download",
          "https://drive.google.com/uc?id=1JZzjiuCwez3tvN_UTxx_W6yg6YazT8_N&export=download",
          "https://drive.google.com/uc?id=1VpyV6M36HMOUZ8wnYkQh-YWZLTjNpQw9&export=download",
-         "https://drive.google.com/uc?id=1sBaCZQ00BHvPzR5DpHs-n-wOOAoEViz&export=download",
          "https://drive.google.com/uc?id=1HPjqJFdTJxzc00SBLSzXnjZ2K61F3ms0&export=download",
          "https://drive.google.com/uc?id=1Ii7MBgj98ILwxxajGJCxkSpTEaXpcZ2M&export=download",
          "https://drive.google.com/uc?id=1PCMLUSTzwjgrPuBs1nHkZN-a7PrGKR6z&export=download",
