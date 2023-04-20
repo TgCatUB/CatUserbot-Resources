@@ -1,13 +1,13 @@
 {
    "fonts":[
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/2_5330386475437524623.ttf?raw=true",
-      "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/CAMPUS PERSONAL USE.ttf?raw=true",
+      "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/CAMPUS%20PERSONAL%20USE.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/CoasterShadow.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/HallOfHeroes-2ajK.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/Quicksand-Bold.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/Quicksand-BoldItalic.ttf?raw=true",
-      "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/SF Grunge Sans SC Italic.ttf?raw=true",
-      "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/SF Laundromatic Extended.ttf?raw=true",
+      "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/SF%20Grunge%20Sans%20SC%20Italic.ttf?raw=true",
+      "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/SF%20Laundromatic%20Extended.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/SUIGI___.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/TROGLOP_.ttf?raw=true",
       "https://github.com/TgCatUB/CatUserbot-Resources/blob/master/Resources/StickerFun/Fonts/Therfont.ttf?raw=true",
